@@ -1,3 +1,3 @@
-echo "hey"
+echo "heyaaaaa"
 cal
 date
