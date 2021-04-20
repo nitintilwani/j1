@@ -1,4 +1,4 @@
 echo "heyaaaaa"
 cal
 date
-echo "Finally khatam"
+echo "Finally khatammmm"
